@@ -1,2 +1,2 @@
 # Projectos
-Poner unascerie de programas de recopilo de internet para mi uso y revision
+Poner una serie de programas de recopilo de internet para mi uso y revision. sin animo de lucro, solo como respaldo del aprendisaje...
